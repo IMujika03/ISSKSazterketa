@@ -60,6 +60,6 @@ while jarraitu == True:
 		hutsune_testua = aldaketa(a,b)
 		clear()
 		inprimatu()
-		
+#Aldaketa batzuk egin behar dira hau egokitzeko		
 
 		
