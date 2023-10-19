@@ -21,3 +21,4 @@ while aurk==False and ind<len(fitx_lista):
 			aurk=True
 			print("fitxategia honako hau da " + fitx)
 	ind=ind+1
+#while-ean fitx_lista edo karpeta jarri daiteke
